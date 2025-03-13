@@ -18,14 +18,14 @@ You can update all Git repositories to use “main” as the primary branch name
 with this command:
 $ git config --global init.defaultBranch main
 
-I recommend that you run this config command before you initialize your Git
+Run this config command before you initialize your Git
 repository so that your primary branch is called main.
 Now, you can tell Git to track this folder using the init command.
 $ git init
 Initialized empty Git repository in /Users/drguthals/Desktop/
 git-practice
 
-Then make sure that you have a clean folder. You can check with the status
+Make sure that you have a clean folder. You can check with the status
 command:
 $ git status
 On branch main
