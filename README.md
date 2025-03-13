@@ -1,4 +1,4 @@
-work in progress
+Work in progress. I am shortening the text..
 
 # Git-Bash
 Commands from GitHub for dummies book
