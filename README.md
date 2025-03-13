@@ -65,7 +65,6 @@ text to say “Hi! I’m practicing git today!” and then choose File ➪ Save 
 the text application.
 When you go back to the Terminal to check the status of your project again, you
 should see that Git has noticed that the file has changed:
-
 $ git status
 On branch main
 Changed not staged for commit:
@@ -77,7 +76,6 @@ no changed added to commit (use "git add" and/or "git commit -a")
 $
 Commit this version of your file again and notice that Git recognizes that everything
 has been saved to a new version:
-
 $ git add file.txt
 $ git commit -m "I changed the text"
 [main 6d80a2a] I changed the text
@@ -87,8 +85,7 @@ On branch main
 nothing to commit, working tree clean
 $
 If your terminal starts to get too cluttered, you can type clear to clear some space
-and make it more visually appealing. Don’t worry; you can always scroll up and
-see everything you typed earlier!
+and make it more visually appealing.
 
 Say that you actually want to see the original change, when you added “practicing
 git”. First, get the log of all the commits you have made:
@@ -105,7 +102,6 @@ $
 Then ask Git to show you the first commit you made (the bottom most one). Make
 sure that you’re typing your unique commit hash. In this book, the hash starts
 with 8d28a2. Make sure you type the entire hash that appears in your Git log.
-
 
 Instead of typing the entire hash (and possibly having a typo), you can highlight
 the hash with your mouse, right-click and choose Copy, and then after git
