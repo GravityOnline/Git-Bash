@@ -151,11 +151,11 @@ with GitHub Pages
 
 Then, open the index.md file and change the code to include sections. For example,
 my code looks like this:
-# My Projects
+-# My Projects
 Here is a list of projects that I am working on:
-# My Interests
+.# My Interests
 I'm interested in teaching novice coders about computer science!
-# My Blog
+.# My Blog
 
 I'm really excited to blog my journey on GitHub.com.
 # Get in Touch
