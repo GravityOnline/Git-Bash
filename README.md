@@ -423,7 +423,7 @@ $ touch js/script.js
 
 Open the README.md in the editor by clicking in the file tree in VS Code. Then add
 some Markdown relevant to your project. In this example, add the following text:
-# The Best Example Ever
+-# The Best Example Ever
 Which will be a part of the best commit ever.
 Then add the following code to index.html.
 <!doctype html>
