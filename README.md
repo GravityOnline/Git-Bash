@@ -582,13 +582,6 @@ message.innerText = 'The script ran!'
 );
 Switch back to Desktop and click the Changes tab, shown in Figure 7-5.
 
-Using GitHub Conventions
-in Commit MessagesUsing GitHub Conventions
-in Commit Messages
-
-Emojis
-Emojis are
-
 Issue references
 
 To reference an issue in a commit message:
